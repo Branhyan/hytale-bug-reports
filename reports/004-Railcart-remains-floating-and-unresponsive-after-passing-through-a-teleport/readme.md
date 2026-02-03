@@ -1,7 +1,7 @@
 # Railcart remains floating and unresponsive after passing through a teleport
 
 ## Environment
-- **Version:** pre-release/YYYY.MM.DD-hash
+- **Version:** pre-release/2026.01.29-301e13929
 - **Mode:** All modes
 - **Platform:** Windows 11
 
