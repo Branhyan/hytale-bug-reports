@@ -31,7 +31,8 @@ Blocks do not react to lava in any way. Lava behaves like a denser version of wa
 - Ideally, lava should ignite blocks similar to how the flamethrower works — applying fire damage on contact, as it does with entities
 
 ## Evidence
-<img width="2560" height="1440" alt="Hytale2026-02-09_16-20-15" src="https://github.com/user-attachments/assets/[YOUR-ASSET-ID-HERE]" />
+<img width="2560" height="1440" alt="Hytale2026-02-09_16-20-15" src="https://github.com/user-attachments/assets/0dc4c87c-131d-4052-a966-449887caba80" />
+
 
 
 ---
