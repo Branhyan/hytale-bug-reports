@@ -27,6 +27,20 @@
 ## Screenshots/Video
 <img width="2560" height="1440" alt="Hytale2026-01-22_13-34-41" src="https://github.com/user-attachments/assets/b5cf0686-90d7-446f-8cc7-f948ab99ce2f" />
 
+## Retesting
+**Version:** pre-release/2026.02.26-89796e57b  
+**Retest Date:** 05/04/2026
+
+**Description:** The 5-minion limit was removed from the design, and minion follow behavior was optimized. Tested with 90 minions and all functionality worked correctly.
+
+**Actual Result:** Minions follow the player correctly without losing track and despawn as intended.
+
+**Expected Result:** Minions should function correctly following the player in groups and despawn after 5 minutes.
+
+**STATUS: RESOLVED ✅**
 
 ---
+---
 **Reported by:** Krimm/Branhyan
+
+
