@@ -17,7 +17,7 @@ Bugs are tested in vanilla environments to isolate mod interference.
 
 | # | Bug | Severity |
 |---|-----|----------|
-| 001 | [Necromancy has no summon cap; follow behavior breaks after ~30 minions](reports/001-necromancy-summon-cap/) | 🔴 Critical |
+| 001 | [Necromancy has no summon cap; follow behavior breaks after ~30 minions](reports/001-necromancy-summon-cap/) | 🔴 Critical - ✅ Solved |
 | 002 | [Darkwood Planks – Decorative drops Darkwood Fence](reports/002-Darkwood-Planks-Decorative-drops-Darkwood-Fence/) | 🟢 Low — ✅ Solved |
 | 003 | [Railcarts do not move without a player on 45° slopes](reports/003-Railcarts-do-not-move-without-a-player-on-45°-slopes/) | 🟡 Medium |
 | 004 | [Railcart remains floating after passing through a teleport](reports/004-Railcart-remains-floating-and-unresponsive-after-passing-through-a-teleport/) | 🟡 Medium |
