@@ -28,7 +28,8 @@ Bugs are tested in vanilla environments to isolate mod interference.
 |009| [Lava does not ignite adjacent flammable blocks](reports/009-lava-does-not-ignite-or-destroy-adjacent-flammable-blocks/) | 🟡 Medium |
 |010| [Tar does not react to fire propagation](reports/010-tar-does-not-react-to-fire-propagation/) | 🟡 Medium |
 |011| [Picking up a filled Watering Can returns an Empty Watering Can](reports/011-picking-up-filled-watering-can-returns-empty/) | 🟡 Medium |
-**10 bugs documented** — some resolved by the development team ✅
+
+**11 bugs documented** — some resolved by the development team ✅
 
 ---
 
